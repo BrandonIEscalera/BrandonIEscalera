@@ -4,13 +4,13 @@
 
 
 
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/BrandonIEscalera/ConfigureAzure)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/BrandonIEscalera/Azure-Network-Protocols/tree/main)
+  - [Wireshark Network Test](https://github.com/BrandonIEscalera/Azure-Wireshark-Test)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Post-Installation Configuration](https://github.com/BrandonIEscalera/osTicket---Prerequisites-and-Installation)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/BrandonIEscalera/ConfigureAzure)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
-  - [Wireshark Network Test](https://github.com/BrandonIEscalera/Azure-Wireshark-Test)
 - <b>Virtual Private network
   - [VPN setup in VM](https://github.com/BrandonIEscalera/VPN)
 <h2>🤳Connect with me:</h2>
