@@ -9,8 +9,8 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/BrandonIEscalera/Azure-Network-Protocols/tree/main)
   - [Wireshark Network Test](https://github.com/BrandonIEscalera/Azure-Wireshark-Test)
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Post-Installation Configuration](https://github.com/BrandonIEscalera/osTicket---Prerequisites-and-Installation)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Pre-reqs and Install](https://github.com/BrandonIEscalera/osTicket---Prerequisites-and-Installation)
+  - [osTicket: Post-Install Config](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Virtual Private network
   - [VPN setup in VM](https://github.com/BrandonIEscalera/VPN)
 <h2>🤳Connect with me:</h2>
