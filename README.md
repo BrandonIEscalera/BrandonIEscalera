@@ -10,7 +10,7 @@
   - [Wireshark Network Test](https://github.com/BrandonIEscalera/Azure-Wireshark-Test)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Pre-reqs and Install](https://github.com/BrandonIEscalera/osTicket---Prerequisites-and-Installation)
-  - [osTicket: Post-Install Config](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Post-Install Config](https://github.com/BrandonIEscalera/Post-Install-Config/tree/main)
 - <b>Virtual Private network
   - [VPN setup in VM](https://github.com/BrandonIEscalera/VPN)
 <h2>🤳Connect with me:</h2>
